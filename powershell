@@ -1,0 +1,28 @@
+
+Azure CLI (Kommandotolken)
+------------------------------------------------
+
+>azure account download
+>azure account import C:\users\...
+>azure account list
+
+>azure vm list
+
+
+Azure PowerShell
+------------------------------------------------
+
+>Add-AzureAccount
+>Get-AzureAccount
+>Get-AzureSubscription
+
+>Get-AzureVM
+
+>New-AzureWebsite KalleKalle
+>Get-AzureWebsite
+
+>Get-AzureWebsite -name KalleKalle
+>Stop-AzureWebsite -name KalleKalle
+>Remove-AzureWebsite -name KalleKalle
+
+
